@@ -29,7 +29,6 @@ int main() {
     
     Put Option;
     Option.SetK(K);
-    //Option.GetInputData();
     
     
     BinLattice<double> PriceTree;
@@ -51,3 +50,4 @@ int main() {
     return 0;
 }
 
+# Demo
